@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "ElasticLAUM/CoSMeta",
+    "data-repo": "cosmeta-laum/CoSMeta",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
