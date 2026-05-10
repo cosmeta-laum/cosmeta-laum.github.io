@@ -5,7 +5,7 @@ permalink: /
 subtitle: Research group · <a href='https://laum.univ-lemans.fr/en/index.html'>LAUM, Le Mans Université</a>
 profile:
   align: right
-  image: bobo.png
+  image: bobo3.png
   image_circular: false
   more_info: >
     <p>Laboratoire d'Acoustique de l'Université du Mans</p>
