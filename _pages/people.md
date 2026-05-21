@@ -84,7 +84,7 @@ nav_order: 3
 
 </div>
 
----
+<hr>
 
 ## Past members
 
@@ -92,7 +92,7 @@ nav_order: 3
 
 **Postdocs:** Rajesh Chaunsali (2019–2021), Pierric Mora (2019–2021), Marina Terzi (2022–2024)
 
----
+<hr>
 
 ## Collaborators
 
