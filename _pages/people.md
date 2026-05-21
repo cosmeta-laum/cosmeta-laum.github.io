@@ -67,15 +67,15 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/cdepres" alt="Clément Depres">
+    <img src="/assets/img/people/cdespres" alt="Clément Despres">
     <div class="person-info">
-      <span class="person-name">Clément Depres</span>
+      <span class="person-name">Clément Despres</span>
       <span class="person-status">Postdoc (2025–2026)</span>
     </div>
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/pkunnumal" alt="Prabith Kunnumal">
+    <img src="/assets/img/people/pkunnummal" alt="Prabith Kunnumal">
     <div class="person-info">
       <span class="person-name">Prabith Kunnumal</span>
       <span class="person-status">Postdoc (2025–2027)</span>
