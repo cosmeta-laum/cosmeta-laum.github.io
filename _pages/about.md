@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+nav_order: 1
 subtitle: Research group · <a href='https://laum.univ-lemans.fr/en/index.html'>LAUM, Le Mans Université</a>
 profile:
   align: right
@@ -19,6 +20,8 @@ latest_posts:
   enabled: false
 ---
 
-We study mechanical structures that exhibit strong dispersion effects or striking nonlinear phenomena — including elastic wave propagation in granular media, soft nonlinear solids, multistable structures, flexible metamaterials, and topological crystals.
+Nature hosts a variety of remarkable wave phenomena: solitons, transition waves, rogue waves. Fortunately, such events are rare; but they are also hard to predict, which makes them difficult to study. Our team designs macroscopic mechanical structures, made of passive or active masses connected by elastic links, that can sustain the propagation of nonlinear waves.
 
-Our work has applications in soft robotics, vibration mitigation, and energy harvesting. We also develop platforms that provide mechanical analogies with biomechanical processes, offering new ways to understand the behavior of the human body.
+We focus in particular on geometrically nonlinear chains (coupled pendulums, rotor lattices, dilational metamaterials), assemblies of multistable units, elastic kirigamis, and out-of-equilibrium structures (spatio-temporal metamaterials, active structures).
+
+Beyond the fundamental questions they raise, these systems open up applications in wave control, mitigation of noise and vibration, and stability of dynamical systems.
