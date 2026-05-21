@@ -94,9 +94,16 @@ nav_order: 3
 
 <hr>
 
-## Collaborators
+## Our collaborators
 
-**International**
+**in France**
+
+- [F. Lemoult](https://www.institut-langevin.espci.fr/fabrice_lemoult) — Institut Langevin, ESPCI Paris
+- [V. Leroy](https://msc.u-paris.fr/annuaire/valentin-leroy/) — MSC, Université Paris Cité
+- F. Pétrélis — ENS Paris
+- S. Job — SUPMECA Paris
+
+**Abroad**
 
 - [K. Bertoldi](https://bertoldi.seas.harvard.edu/) — Harvard University
 - [N. Boechler](https://boechler.ucsd.edu/) — UC San Diego
@@ -112,10 +119,3 @@ nav_order: 3
 - B. Van Damme — EMPA
 - N. Vandewalle — Université de Liège
 - [J. Yang](https://starlab.snu.ac.kr/) — Seoul National University
-
-**France**
-
-- [F. Lemoult](https://www.institut-langevin.espci.fr/fabrice_lemoult) — Institut Langevin, ESPCI Paris
-- [V. Leroy](https://msc.u-paris.fr/annuaire/valentin-leroy/) — MSC, Université Paris Cité
-- F. Pétrélis — ENS Paris
-- S. Job — SUPMECA Paris
