@@ -11,7 +11,7 @@ nav_order: 3
 <div class="people-grid">
 
   <div class="person">
-    <img src="/assets/img/people/hbense.jpg" alt="Hadrien Bense">
+    <img src="/assets/img/people/hbense" alt="Hadrien Bense">
     <div class="person-info">
       <span class="person-name">Hadrien Bense</span>
       <span class="person-status">CR CNRS</span>
@@ -19,7 +19,7 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/mchekroun.jpg" alt="Mathieu Chekroun">
+    <img src="/assets/img/people/mchekroun" alt="Mathieu Chekroun">
     <div class="person-info">
       <span class="person-name">Mathieu Chekroun</span>
       <span class="person-status">Associate Professor</span>
@@ -27,7 +27,7 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/mlanoy.jpg" alt="Maxime Lanoy">
+    <img src="/assets/img/people/mlanoy" alt="Maxime Lanoy">
     <div class="person-info">
       <span class="person-name">Maxime Lanoy</span>
       <span class="person-status">Associate Professor</span>
@@ -35,7 +35,7 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/gtheocharis.jpg" alt="Georgios Theocharis">
+    <img src="/assets/img/people/gtheocharis" alt="Georgios Theocharis">
     <div class="person-info">
       <span class="person-name">Georgios Theocharis</span>
       <span class="person-status">CR CNRS</span>
@@ -43,7 +43,7 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/vtournat.jpg" alt="Vincent Tournat">
+    <img src="/assets/img/people/vtournat" alt="Vincent Tournat">
     <div class="person-info">
       <span class="person-name">Vincent Tournat</span>
       <span class="person-status">DR CNRS</span>
@@ -51,7 +51,7 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/agalani.jpg" alt="Athina Galani">
+    <img src="/assets/img/people/agalani" alt="Athina Galani">
     <div class="person-info">
       <span class="person-name">Athina Galani</span>
       <span class="person-status">PhD student (2025–2028)</span>
@@ -59,7 +59,7 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/lmotais.jpg" alt="Lucas Motais">
+    <img src="/assets/img/people/lmotais" alt="Lucas Motais">
     <div class="person-info">
       <span class="person-name">Lucas Motais</span>
       <span class="person-status">PhD student (2025–2028)</span>
@@ -67,7 +67,7 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/cdepres.jpg" alt="Clément Depres">
+    <img src="/assets/img/people/cdepres" alt="Clément Depres">
     <div class="person-info">
       <span class="person-name">Clément Depres</span>
       <span class="person-status">Postdoc (2025–2026)</span>
@@ -75,7 +75,7 @@ nav_order: 3
   </div>
 
   <div class="person">
-    <img src="/assets/img/people/pkunnumal.jpg" alt="Prabith Kunnumal">
+    <img src="/assets/img/people/pkunnumal" alt="Prabith Kunnumal">
     <div class="person-info">
       <span class="person-name">Prabith Kunnumal</span>
       <span class="person-status">Postdoc (2025–2027)</span>
